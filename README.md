@@ -28,4 +28,4 @@ asdfadsf
 
 
 ## Course poster
-!Course poster](https://raw.githubusercontent.com/albertofernandezvillan/dl-ml-notebooks/main/assets/course_poster_final.png)
+![Course poster](https://raw.githubusercontent.com/albertofernandezvillan/dl-ml-notebooks/main/assets/course_poster_final.png)
