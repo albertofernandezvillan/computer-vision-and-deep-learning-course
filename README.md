@@ -1,5 +1,5 @@
 # Computer vision in the new era of Artificial Intelligence and Deep Learning
-## Spanish: Visión por computador en la nueva era de la Inteligencia Artificial y el Deep Learning
+:spain: ## Visión por computador en la nueva era de la Inteligencia Artificial y el Deep Learning
 
 This repository contains both a collection of Jupyter Notebooks as well as other resources (e.g. presentations, links, ...) that are going to be used during the "Second quarter university extension courses" that the University of Oviedo is going to teach (online). For more information about this course, you can check the following [URL](https://www.uniovi.es/estudios/extension/cursos2c/-/asset_publisher/SEp0PJi4ISGo/content/vision-por-computador-en-la-nueva-era-de-la-inteligencia-artificial-y-el-deep-learning?redirect=%2Festudios%2Fextension%2Fcursos2c)
 
