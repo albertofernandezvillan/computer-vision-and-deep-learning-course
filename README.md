@@ -25,3 +25,10 @@ The target audience is broad and includes
 
 ## Notebooks
 asdfadsf
+
+
+## Course poster
+
+
+
+
