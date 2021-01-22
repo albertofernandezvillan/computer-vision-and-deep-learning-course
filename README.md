@@ -5,18 +5,27 @@ This repository contains both a collection of Jupyter Notebooks as well as other
 
 Work in progress :construction:
 
-Objectives
- * To know the current context of computer vision in the new era of artificial intelligence and Deep Learning
- * To know the main tools and strategies for problem solving using different data sources
- * Knowing how to handle computer tools and specific software for digital image processing
- * Understanding how basic digital image processing and analysis methods and techniques work
+**Objectives**
 
-Content
- * Introduction to OpenCV and Python
- * Basic image treatment
- * Image processing
- * Machine learning (Scikit-learn)
- * Deep learning (Tensorflow, Keras, PyTorch)
+   :heavy_check_mark: To know the current context of computer vision in the new era of artificial intelligence and Deep Learning
+   
+   :heavy_check_mark: To know the main tools and strategies for problem solving using different data sources
+   
+   :heavy_check_mark: Knowing how to handle computer tools and specific software for digital image processing
+   
+   :heavy_check_mark: Understanding how basic digital image processing and analysis methods and techniques work
+
+**Content**
+
+ :heavy_check_mark: Introduction to OpenCV and Python
+ 
+ :heavy_check_mark: Basic image treatment
+ 
+ :heavy_check_mark: Image processing
+ 
+ :heavy_check_mark: Machine learning (Scikit-learn)
+ 
+ :heavy_check_mark:Deep learning (Tensorflow, Keras, PyTorch)
  
 The target audience is broad and includes
  * People who have done computer science (maybe to graduate level) but who have not knowledge about OpenCV
