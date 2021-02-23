@@ -36,7 +36,7 @@ The target audience is broad and includes
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
-| Numpy introduction | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/notebooks/NumpyIndexing.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/notebooks/NumpyIndexing.ipynb) |
+| OpenCV sliders for image processing | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) |
 
 Work in progress :construction:
 
