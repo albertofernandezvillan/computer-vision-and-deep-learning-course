@@ -37,8 +37,7 @@ The target audience is broad and includes
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
-| Collection of features, utilities and tricks on Colab and/or Python | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/collection_of_some_features_utilities_and_tricks.ipynb) |
-[Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/collection_of_some_features_utilities_and_tricks.ipynb) |
+| Collection of features, utilities and tricks on Colab and/or Python | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/collection_of_some_features_utilities_and_tricks.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/collection_of_some_features_utilities_and_tricks.ipynb) |
 | OpenCV sliders for image processing | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) |
 | K-means clustering for color quantization with OpenCV | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_opencv.ipynb) |
 | K-means clustering for color quantization with scikit-learn (sklearn) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) |
