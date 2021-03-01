@@ -46,6 +46,9 @@ The target audience is broad and includes
 | Keras ImageDataGenerators and Data augmentation |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) |
 | Configure OpenCV with GPU con Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) |
 | Bencharmking inference speed GPUS vs CPU with OpenCV in Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) |
+| Bencharmking YOLO V4 GPUS vs CPU with OpenCV in Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) |
+
+
 
 
 
