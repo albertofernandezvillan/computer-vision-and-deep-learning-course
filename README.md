@@ -31,6 +31,7 @@ The target audience is broad and includes
  * People who have done computer science (maybe to graduate level) but who have not knowledge about OpenCV
  * People who are studying other subjects and want to play with computer vision 
 
+
 ## Notebooks
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
@@ -38,6 +39,7 @@ The target audience is broad and includes
 | Collection of features, utilities and tricks on Colab and/or Python | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/collection_of_some_features_utilities_and_tricks.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/collection_of_some_features_utilities_and_tricks.ipynb) |
 | Explore, execute and see the output of external Python scripts | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/explore_and_execute_external_scripts_in_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/explore_and_execute_external_scripts_in_colab.ipynb) |
 | Basic image treatment (color and grayscale images) in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_image_treatment_with_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_image_treatment_with_opencv.ipynb) |
+| Drawing basic figures (points, lines, poligonal curves,...) in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_drawing_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_drawing_opencv.ipynb) |
 | OpenCV sliders for image processing | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) |
 | K-means clustering for color quantization with OpenCV | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_opencv.ipynb) |
 | K-means clustering for color quantization with scikit-learn (sklearn) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) |
