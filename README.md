@@ -32,8 +32,10 @@ The target audience is broad and includes
  * People who are studying other subjects and want to play with computer vision 
 
 
-
-
+| Lesson        | Estimated time needed | Source Code  | Colab |
+| ------------- |:---------------------:| :-----------:| -----:|
+| Drawing text and symbols in OpenCV | 10 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/drawing_text_and_symbols_in_opencv.ipynb) |       [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/drawing_text_and_symbols_in_opencv.ipynb |
+| Geometric image transformations in OpenCV | 15 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/geometric_image_transformations_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/geometric_image_transformations_opencv.ipynb |
 
 
 ## Notebooks
