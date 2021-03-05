@@ -32,6 +32,10 @@ The target audience is broad and includes
  * People who are studying other subjects and want to play with computer vision 
 
 
+
+
+
+
 ## Notebooks
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
@@ -44,6 +48,7 @@ The target audience is broad and includes
 | Geometric image transformations in OpenCV | 15 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/geometric_image_transformations_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/geometric_image_transformations_opencv.ipynb) |
 | OpenCV sliders for image processing | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) |
 | Computational photography module in OpenCV | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/computational_photography_module_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/computational_photography_module_opencv.ipynb) |
+| Inpainting with OpenCV| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/inpaint_algorithm_in_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/inpaint_algorithm_in_opencv.ipynb) |
 | K-means clustering for color quantization with OpenCV | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_opencv.ipynb) |
 | K-means clustering for color quantization with scikit-learn (sklearn) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) |
 | Some packages for face processing in Python| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/face_processing.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/face_processing.ipynb) |
