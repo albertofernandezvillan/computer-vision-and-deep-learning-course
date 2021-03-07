@@ -49,7 +49,7 @@ The target audience is broad and includes
 | Take video from webcam in Colab | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/take_video_from_webcam_in_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/take_video_from_webcam_in_colab.ipynb) |
 | Explore, execute and see the output of external Python scripts | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/explore_and_execute_external_scripts_in_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/explore_and_execute_external_scripts_in_colab.ipynb) |
 | Create and show multiple images in the same figure with matplotlib | 15 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/show_multiple_images_same_figure_plt.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/show_multiple_images_same_figure_plt.ipynb) |
-| Install Colab utilities (https://github.com/albertofernandezvillan/colaboratory-utils) | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/take_video_from_webcam_in_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/colaboratory_utils.ipynb) |
+| Install Colab utilities (https://github.com/albertofernandezvillan/colaboratory-utils) | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/colaboratory_utils.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/colaboratory_utils.ipynb) |
 
 
 ### OpenCV notebooks for computer vision
