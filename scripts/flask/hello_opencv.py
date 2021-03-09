@@ -12,6 +12,9 @@ import urllib.request
 app = Flask(__name__)
 run_with_ngrok(app)
 
+@app.route("/") 
+def home(): 
+    return "Flask app server is running"
 
 @app.route('/canny', methods=['GET'])
 def canny_processing():
