@@ -78,6 +78,16 @@ The target audience is broad and includes
 | ------------- |:---------------------:| :-----------:| -----:|
 | K-means clustering for color quantization with scikit-learn (sklearn) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) |
 
+### flask notebooks for computer vision
+
+| Lesson        | Estimated time needed | Source Code  | Colab |
+| ------------- |:---------------------:| :-----------:| -----:|
+| Minimal example showing how to create and deploy a Flask app for computer vision| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/flask_app_on_colab_for_computer_vision_minimal_example.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/flask_app_on_colab_for_computer_vision_minimal_example.ipynb) |
+
+
+
+
+
 
 Work in progress :construction:
 
