@@ -77,7 +77,10 @@ The target audience is broad and includes
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
+| Scikit-learn introduction for classification | 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) |
 | K-means clustering for color quantization with scikit-learn (sklearn) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) |
+
+
 
 ### flask notebooks for computer vision
 
