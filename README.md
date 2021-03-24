@@ -44,6 +44,7 @@ The target audience is broad and includes
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
+| Colaboratory introduction | 10 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/notebooks_and_colab_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/notebooks_and_colab_introduction.ipynb) |
 | Collection of features, utilities and tricks on Colab and/or Python | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/collection_of_some_features_utilities_and_tricks.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/collection_of_some_features_utilities_and_tricks.ipynb) |
 | Take image from webcam as numpy array in Colab | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/take_image_from_webcam_as_numpy_array.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/take_image_from_webcam_as_numpy_array.ipynb) |
 | Take video from webcam in Colab | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/take_video_from_webcam_in_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/take_video_from_webcam_in_colab.ipynb) |
