@@ -57,7 +57,7 @@ The target audience is broad and includes
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
 | Introduction to Python| 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/python_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/python_introduction.ipynb) |
-| Basic image treatment (color and grayscale images) in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) |
+| Introduction to Numpy | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) |
 
 ### OpenCV notebooks for computer vision
 
