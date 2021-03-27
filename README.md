@@ -52,6 +52,12 @@ The target audience is broad and includes
 | Create and show multiple images in the same figure with matplotlib | 15 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/show_multiple_images_same_figure_plt.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/show_multiple_images_same_figure_plt.ipynb) |
 | Install Colab utilities (https://github.com/albertofernandezvillan/colaboratory-utils) | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/colaboratory_utils.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/colaboratory_utils.ipynb) |
 
+### Introduction to Python and Numpy
+
+| Lesson        | Estimated time needed | Source Code  | Colab |
+| ------------- |:---------------------:| :-----------:| -----:|
+| Introduction to Python| 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/python_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/python_introduction.ipynb) |
+| Basic image treatment (color and grayscale images) in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) |
 
 ### OpenCV notebooks for computer vision
 
