@@ -71,6 +71,21 @@ The target audience is broad and includes
 | Drawing basic figures (points, lines, poligonal curves,...) in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_drawing_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_drawing_opencv.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_drawing.pptx) |
 | Drawing text and symbols in OpenCV | 10 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/drawing_text_and_symbols_in_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/drawing_text_and_symbols_in_opencv.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_drawing.pptx) |
 
+#### Image processing with OpenCV
+
+| Lesson        | Estimated time needed | Source Code  | Colab |
+| ------------- |:---------------------:| :-----------:| -----:|
+| Geometric image transformations in OpenCV | 15 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/geometric_image_transformations_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/geometric_image_transformations_opencv.ipynb) |
+| OpenCV sliders for image processing | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/opencv_sliders_introduction_image_processing.ipynb) |
+| Visual interfaces (with buttons and sliders) for image processing with OpenCV | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/visual_interface_image_processing_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/visual_interface_image_processing_opencv.ipynb) |
+| Computational photography module in OpenCV | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/computational_photography_module_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/computational_photography_module_opencv.ipynb) |
+| Inpainting with OpenCV| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/inpaint_algorithm_in_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/inpaint_algorithm_in_opencv.ipynb) |
+| K-means clustering for color quantization with OpenCV | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_opencv.ipynb) |
+| References for main image processing techniques and algorithms in OpenCV | 50 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/references_for_main_image_processing_techniques_in_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/references_for_main_image_processing_techniques_in_opencv.ipynb) |
+| Some packages for face processing in Python| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/face_processing.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/face_processing.ipynb) |
+
+
+
 #### OpenCV advanced
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
