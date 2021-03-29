@@ -64,12 +64,12 @@ The target audience is broad and includes
 
 #### OpenCV basics
 
-| Lesson        | Estimated time needed | Source Code  | Colab |
-| ------------- |:---------------------:| :-----------:| -----:|
-| Basic image treatment (color and grayscale images) in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_image_treatment_with_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_image_treatment_with_opencv.ipynb) |
-| BGR color format in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/bgr_color_format_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/bgr_color_format_opencv.ipynb) |
-| Drawing basic figures (points, lines, poligonal curves,...) in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_drawing_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_drawing_opencv.ipynb) |
-| Drawing text and symbols in OpenCV | 10 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/drawing_text_and_symbols_in_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/drawing_text_and_symbols_in_opencv.ipynb) |
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:| ------------:|
+| Basic image treatment (color and grayscale images) in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_image_treatment_with_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_image_treatment_with_opencv.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_basics.pptx) |
+| BGR color format in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/bgr_color_format_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/bgr_color_format_opencv.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/BGR_color_format_opencv.pptx) |
+| Drawing basic figures (points, lines, poligonal curves,...) in OpenCV | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_drawing_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/basic_drawing_opencv.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_drawing.pptx) |
+| Drawing text and symbols in OpenCV | 10 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/drawing_text_and_symbols_in_opencv.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/drawing_text_and_symbols_in_opencv.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_drawing.pptx |
 
 #### OpenCV advanced
 
