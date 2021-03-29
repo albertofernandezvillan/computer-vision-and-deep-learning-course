@@ -54,10 +54,11 @@ The target audience is broad and includes
 
 ### Introduction to Python and Numpy
 
-| Lesson        | Estimated time needed | Source Code  | Colab |
-| ------------- |:---------------------:| :-----------:| -----:|
-| Introduction to Python| 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/python_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/python_introduction.ipynb) |
-| Introduction to Numpy | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) |
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:| ------------:|
+| Introduction to Python| 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/python_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/python_introduction.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Python.pptx) |
+| Introduction to Numpy | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/numpy_introduction.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Numpy.pptx) |
+
 
 ### OpenCV notebooks for computer vision
 
