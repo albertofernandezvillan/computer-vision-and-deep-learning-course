@@ -85,7 +85,12 @@ The target audience is broad and includes
 | Some packages for face processing in Python| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/face_processing.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/face_processing.ipynb) |[Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Image_processing_with_opencv.pptx) |
 
 
-
+#### Configure OpenCV with GPU on Colab and benchmarking inference speed
+| Lesson        | Estimated time needed | Source Code  | Colab |
+| ------------- |:---------------------:| :-----------:| -----:|
+| Configure OpenCV with GPU con Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) |
+| Benchmarking inference speed GPUS vs CPU with OpenCV in Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) |
+| Benchmarking inference speed YOLO V4 GPUS vs CPU with OpenCV in Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) |
 
 
 #### OpenCV advanced
@@ -94,9 +99,7 @@ The target audience is broad and includes
 | ------------- |:---------------------:| :-----------:| -----:|
 | Set up Kaggle environment in Google Colab| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/set_up_kaggle_api_in_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/set_up_kaggle_api_in_colab.ipynb) |
 | Keras ImageDataGenerators and Data augmentation |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) |
-| Configure OpenCV with GPU con Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) |
-| Benchmarking inference speed GPUS vs CPU with OpenCV in Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) |
-| Benchmarking inference speed YOLO V4 GPUS vs CPU with OpenCV in Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) |
+
 
 ### Other computer vision libraries
 | Lesson        | Estimated time needed | Source Code  | Colab |
