@@ -95,19 +95,12 @@ The target audience is broad and includes
 
 
 
-#### OpenCV advanced
+### TensorFlow and Keras
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
 | Set up Kaggle environment in Google Colab| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/set_up_kaggle_api_in_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/set_up_kaggle_api_in_colab.ipynb) |
 | Keras ImageDataGenerators and Data augmentation |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) |
-
-
-### Other computer vision libraries
-| Lesson        | Estimated time needed | Source Code  | Colab |
-| ------------- |:---------------------:| :-----------:| -----:|
-| Pillow: Python Imaging Library (Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) |
-
 
 
 ### scikit-learn notebooks for computer vision
@@ -121,9 +114,16 @@ The target audience is broad and includes
 | Metrics for classification  | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) |
 
 
+### Other topics
+
+#### Introduction to Pillow
+
+| Lesson        | Estimated time needed | Source Code  | Colab |
+| ------------- |:---------------------:| :-----------:| -----:|
+| Pillow: Python Imaging Library (Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) |
 
 
-### flask notebooks for computer vision
+####  Introduction to flask (for computer vision)
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
