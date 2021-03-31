@@ -125,9 +125,9 @@ The target audience is broad and includes
 
 #### Introduction to Pillow
 
-| Lesson        | Estimated time needed | Source Code  | Colab |
-| ------------- |:---------------------:| :-----------:| -----:|
-| Pillow: Python Imaging Library (Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) |
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
+| Pillow: Python Imaging Library (Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/PIL.pptx) |
 
 
 ####  Introduction to flask (for computer vision)
