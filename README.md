@@ -103,13 +103,20 @@ The target audience is broad and includes
 | Keras ImageDataGenerators and Data augmentation |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) |
 
 
-### scikit-learn notebooks for computer vision
+### Machine learning for computer vision
+
+#### Introduction of scikit-learn for classification, regression and clustering
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
 | Scikit-learn introduction for classification | 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) |
 | Scikit-learn introduction for regression | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) |
 | K-means clustering for color quantization with scikit-learn (sklearn) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) |
+
+#### Introduction to pandas
+
+| Lesson        | Estimated time needed | Source Code  | Colab |
+| ------------- |:---------------------:| :-----------:| -----:|
 | Pandas introduction | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) |
 | Metrics for classification  | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) |
 
