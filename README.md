@@ -108,7 +108,7 @@ The target audience is broad and includes
 | ------------- |:---------------------:| :-----------:| -----:|
 | Tensors| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_1_tensors.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_1_tensors.ipynb) |
 | Learning| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) |
-| Neural networks| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_networks.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_networks.ipynb) |
+| Neural networks| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) |
 | Transfer learning| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) |
 
 
