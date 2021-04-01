@@ -86,14 +86,16 @@ The target audience is broad and includes
 
 
 #### Configure OpenCV with GPU on Colab and benchmarking inference speed
-| Lesson        | Estimated time needed | Source Code  | Colab |
-| ------------- |:---------------------:| :-----------:| -----:|
-| Configure OpenCV with GPU con Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) |
-| Benchmarking inference speed GPUS vs CPU with OpenCV in Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) |
-| Benchmarking inference speed YOLO V4 GPUS vs CPU with OpenCV in Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) |
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
+| Configure OpenCV with GPU con Colab |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/configure_opencv_with_gpu_on_colab.ipynb) |[Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_gpu_colab_inference.pptx) |
+| Benchmarking GPUS vs CPU with OpenCV in Colab (human pose estimation)|  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) |[Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_gpu_colab_inference.pptx) |
+| Benchmarking GPUS vs CPU with OpenCV in Colab (YOLO V4) |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) |[Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_gpu_colab_inference.pptx) |
 
 
-#### OpenCV advanced
+
+
+### TensorFlow and Keras
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
@@ -101,27 +103,41 @@ The target audience is broad and includes
 | Keras ImageDataGenerators and Data augmentation |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) |
 
 
-### Other computer vision libraries
+### Machine learning for computer vision
+
+#### Introduction of scikit-learn for classification, regression and clustering
+
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
+| Scikit-learn introduction for classification | 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn.pptx) |
+| Scikit-learn introduction for regression | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn.pptx) |
+| Scikit-learn introduction for clustering (color quantization) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn.pptx) |
+
+#### Introduction to pandas
+
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
+| Pandas introduction | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Pandas_introduction.pptx) |
+
+
+#### Understanding metrics
+
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
-| Pillow: Python Imaging Library (Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) |
-
-
-
-### scikit-learn notebooks for computer vision
-
-| Lesson        | Estimated time needed | Source Code  | Colab |
-| ------------- |:---------------------:| :-----------:| -----:|
-| Scikit-learn introduction for classification | 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) |
-| Scikit-learn introduction for regression | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) |
-| K-means clustering for color quantization with scikit-learn (sklearn) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) |
-| Pandas introduction | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) |
 | Metrics for classification  | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) |
 
 
 
+### Other topics
 
-### flask notebooks for computer vision
+#### Introduction to Pillow
+
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
+| Pillow: Python Imaging Library (Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/PIL.pptx) |
+
+
+####  Introduction to flask (for computer vision)
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
