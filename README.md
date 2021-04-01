@@ -126,6 +126,8 @@ The target audience is broad and includes
 | Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
 | ------------- |:---------------------:| :-----------:| -----:|------------:|
 | Pandas introduction | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Pandas_introduction.pptx) |
+| Minimal example using both scikit-learn and pandas for classification | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_and_scikit_learn_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_and_scikit_learn_introduction.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Pandas_introduction.pptx) |
+
 
 
 #### Introduction to metrics in scikit-learn
