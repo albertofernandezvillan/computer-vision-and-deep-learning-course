@@ -93,8 +93,6 @@ The target audience is broad and includes
 | Benchmarking GPUS vs CPU with OpenCV in Colab (YOLO V4) |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) |[Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_gpu_colab_inference.pptx) |
 
 
-
-
 ### TensorFlow and Keras
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
@@ -102,14 +100,15 @@ The target audience is broad and includes
 | Set up Kaggle environment in Google Colab| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/set_up_kaggle_api_in_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/set_up_kaggle_api_in_colab.ipynb) |
 | Keras ImageDataGenerators and Data augmentation |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) |
 
+
 ### PyTorch
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
-| Tensors| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_1_tensors.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_1_tensors.ipynb) |
-| Learning| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) |
-| Neural networks| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) |
-| Transfer learning| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) |
+| Tensors| 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_1_tensors.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_1_tensors.ipynb) |
+| Learning| 60 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) |
+| Neural networks| 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) |
+| Transfer learning| 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) |
 
 
 ### Machine learning for computer vision
