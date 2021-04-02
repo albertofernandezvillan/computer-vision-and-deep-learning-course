@@ -129,8 +129,8 @@ The target audience is broad and includes
 
 ### PyTorch
 
-| Lesson        | Estimated time needed | Source Code  | Colab |
-| ------------- |:---------------------:| :-----------:| -----:|
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
 | Tensors| 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_1_tensors.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_1_tensors.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/PyTorch.pdf) |
 | Learning| 60 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Learning.pdf) |
 | Neural networks| 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Networks.pdf) |
