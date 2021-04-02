@@ -92,6 +92,32 @@ The target audience is broad and includes
 | Benchmarking GPUS vs CPU with OpenCV in Colab (human pose estimation)|  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/benchmarking_inference_speed_gpu_vs_cpu_opencv_on_colab.ipynb) |[Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_gpu_colab_inference.pptx) |
 | Benchmarking GPUS vs CPU with OpenCV in Colab (YOLO V4) |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/yolo_v4_opencv_dnn.ipynb) |[Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/OpenCV_gpu_colab_inference.pptx) |
 
+### Machine learning for computer vision
+
+#### Introduction of scikit-learn for classification, regression and clustering
+
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
+| Scikit-learn introduction for classification | 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn.pptx) |
+| Scikit-learn introduction for regression | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn.pptx) |
+| Scikit-learn introduction for clustering (color quantization) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn.pptx) |
+
+#### Introduction to pandas
+
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
+| Pandas introduction | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Pandas_introduction.pptx) |
+| Minimal example using both scikit-learn and pandas for classification | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_and_scikit_learn_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_and_scikit_learn_introduction.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Pandas_introduction.pptx) |
+
+
+
+#### Introduction to metrics in scikit-learn
+
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
+| Metrics for classification  | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn_metrics.pptx) |
+
+
 
 ### TensorFlow and Keras
 
@@ -109,32 +135,6 @@ The target audience is broad and includes
 | Learning| 60 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_2_learning.ipynb) |
 | Neural networks| 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) |
 | Transfer learning| 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) |
-
-
-### Machine learning for computer vision
-
-#### Introduction of scikit-learn for classification, regression and clustering
-
-| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
-| ------------- |:---------------------:| :-----------:| -----:|------------:|
-| Scikit-learn introduction for classification | 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_classification.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn.pptx) |
-| Scikit-learn introduction for regression | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/scikit_learn_introduction_regression.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn.pptx) |
-| Scikit-learn introduction for clustering (color quantization) | 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/k_means_clustering_sklearn.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Scikit_learn.pptx) |
-
-#### Introduction to pandas
-
-| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
-| ------------- |:---------------------:| :-----------:| -----:|------------:|
-| Pandas introduction | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pandas_introduction.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Pandas_introduction.pptx) |
-
-
-#### Understanding metrics
-
-| Lesson        | Estimated time needed | Source Code  | Colab |
-| ------------- |:---------------------:| :-----------:| -----:|
-| Metrics for classification  | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/metrics_for_classification_with_scikit_learn.ipynb) |
-
-
 
 ### Other topics
 
