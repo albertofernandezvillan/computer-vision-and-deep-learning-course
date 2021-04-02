@@ -151,7 +151,14 @@ The target audience is broad and includes
 | ------------- |:---------------------:| :-----------:| -----:|
 | Minimal example showing how to create and deploy a Flask app for computer vision| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/flask_app_on_colab_for_computer_vision_minimal_example.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/flask_app_on_colab_for_computer_vision_minimal_example.ipynb) |
 
+### Other resources
+#### [Scikit-image](https://scikit-image.org/) (Image processing in Python)
 
+
+| Repository    | description |
+| ------------- |:-----------:| 
+|<img src="assets/github.png" width="20" height="20"> [scikit-image](https://github.com/scikit-image/scikit-image) | scikit-image: Image processing in Python|
+|<img src="assets/github.png" width="20" height="20"> [skimage-tutorials](https://github.com/scikit-image/skimage-tutorials) | scikit-image tutorials|
 
 
 
