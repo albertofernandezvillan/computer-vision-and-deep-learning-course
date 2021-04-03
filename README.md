@@ -35,8 +35,9 @@ The target audience is broad and includes
 
 
 
+## Introduction
 
-
+[Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Introduction.pdf)
 
 ## Notebooks
 
