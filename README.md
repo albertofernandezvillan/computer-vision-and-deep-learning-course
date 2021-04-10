@@ -154,11 +154,11 @@ The target audience is broad and includes
 
 ### Other resources
 
-#### Introduction to Pillow
+#### Introduction to Pillow: Python Imaging Library (PIL Fork)
 
 | Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
 | ------------- |:---------------------:| :-----------:| -----:|------------:|
-| Pillow: Python Imaging Library (Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/PIL.pdf) |
+| Pillow: Python Imaging Library (PIL Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/PIL.pdf) |
 
 #### [Scikit-image](https://scikit-image.org/) (Image processing in Python)
 
