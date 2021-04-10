@@ -183,6 +183,10 @@ The target audience is broad and includes
 |<img src="assets/github.png" width="20" height="20"> [mahotas](https://github.com/luispedro/mahotas) | mahotas: Python Computer Vision Library|
 |<img src="assets/github.png" width="20" height="20"> [mahotas-demos](https://github.com/luispedro/mahotas/tree/master/mahotas/demos) | mahotas tutorials and demos|
 
+> **Luis Pedro Coelho** Mahotas: Open source software for scriptable
+> computer vision in Journal of Open Research Software, vol 1, 2013.
+> [[DOI](http://dx.doi.org/10.5334/jors.ac)]
+
 Work in progress :construction:
 
 
