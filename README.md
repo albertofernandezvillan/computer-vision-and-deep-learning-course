@@ -131,14 +131,6 @@ The target audience is broad and includes
 |Image and dataset augmentation| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/TensorFlow_and_Keras.pdf) |
 |Transfer learning using Keras Applications| 35 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_applications_transfer_learning.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_applications_transfer_learning.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/TensorFlow_and_Keras.pdf) |
 
-
-| Lesson        | Estimated time needed | Source Code  | Colab |
-| ------------- |:---------------------:| :-----------:| -----:|
-| Keras image classification example| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_applications_prediction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_applications_prediction.ipynb) |
-| Set up Kaggle environment in Google Colab| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/set_up_kaggle_api_in_colab.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/set_up_kaggle_api_in_colab.ipynb) |
-| Keras ImageDataGenerators and Data augmentation |  20 min |[Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_imagedatagenerator_and_dataset_augmentation.ipynb) |
-
-
 ### PyTorch
 
 | Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
