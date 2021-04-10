@@ -53,7 +53,7 @@ The target audience is broad and includes
 | Create and show multiple images in the same figure with matplotlib | 15 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/show_multiple_images_same_figure_plt.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/show_multiple_images_same_figure_plt.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Show_multiple_images_same_figure_plt.pdf) |
 | Install Colab utilities (https://github.com/albertofernandezvillan/colaboratory-utils) | 30 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/colaboratory_utils.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/colaboratory_utils.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Install_colab_utilities.pdf) |
 
-### Introduction to Python and Numpy
+### Introduction to Python and NumPy
 
 | Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
 | ------------- |:---------------------:| :-----------:| -----:| ------------:|
@@ -121,6 +121,12 @@ The target audience is broad and includes
 
 
 ### TensorFlow and Keras
+
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|-------------:|
+| Using a pre-trained model for inference using Keras Applications| 15 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_applications_prediction.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/keras_applications_prediction.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/TensorFlow_and_Keras.pdf) |
+
+
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
