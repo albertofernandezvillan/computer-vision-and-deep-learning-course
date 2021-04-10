@@ -168,6 +168,12 @@ The target audience is broad and includes
 |<img src="assets/github.png" width="20" height="20"> [scikit-image](https://github.com/scikit-image/scikit-image) | scikit-image: Image processing in Python|
 |<img src="assets/github.png" width="20" height="20"> [skimage-tutorials](https://github.com/scikit-image/skimage-tutorials) | scikit-image tutorials|
 
+> Stéfan van der Walt, Johannes L. Schönberger, Juan Nunez-Iglesias,
+> François Boulogne, Joshua D. Warner, Neil Yager, Emmanuelle
+> Gouillart, Tony Yu, and the scikit-image contributors.
+> *scikit-image: Image processing in Python*. PeerJ 2:e453 (2014)
+> https://doi.org/10.7717/peerj.453
+
 
 #### [Mahotas: computer vision in Python](http://luispedro.org/software/mahotas/) (Image processing and computer vision in Python)
 
