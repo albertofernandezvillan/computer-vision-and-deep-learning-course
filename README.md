@@ -174,7 +174,7 @@ The target audience is broad and includes
 
 | Repository    | description |
 | ------------- |:-----------:| 
-|<img src="assets/github.png" width="20" height="20"> [mahotas](https://github.com/luispedro/mahotas) | Mahotas: Python Computer Vision Library|
+|<img src="assets/github.png" width="20" height="20"> [mahotas](https://github.com/luispedro/mahotas) | mahotas: Python Computer Vision Library|
 |<img src="assets/github.png" width="20" height="20"> [mahotas-demos](https://github.com/luispedro/mahotas/tree/master/mahotas/demos) | mahotas tutorials and demos|
 
 Work in progress :construction:
