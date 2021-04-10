@@ -157,7 +157,7 @@ The target audience is broad and includes
 
 | Lesson        | Estimated time needed | Datasets  | Models | Presentation |
 | ------------- |:---------------------:| :-----------:| -----:|------------:|
-| Datasets and models | 50 min | [Open](https://public.roboflow.com/) | [Open](https://models.roboflow.com/) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/PIL.pdf) |
+| Datasets and models | 50 min | [Open](https://public.roboflow.com/) | [Open](https://models.roboflow.com/) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Models.pdf) |
 
 ### Other resources
 #### [Scikit-image](https://scikit-image.org/) (Image processing in Python)
