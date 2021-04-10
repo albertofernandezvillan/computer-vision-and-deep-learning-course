@@ -169,7 +169,7 @@ The target audience is broad and includes
 |<img src="assets/github.png" width="20" height="20"> [skimage-tutorials](https://github.com/scikit-image/skimage-tutorials) | scikit-image tutorials|
 
 
-#### [Mahotas: computer vision in Python](http://luispedro.org/software/mahotas/ (Image processing and computer vision in Python)
+#### [Mahotas: computer vision in Python](http://luispedro.org/software/mahotas/) (Image processing and computer vision in Python)
 
 
 | Repository    | description |
