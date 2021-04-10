@@ -152,15 +152,16 @@ The target audience is broad and includes
 | ------------- |:---------------------:| :-----------:| -----:|------------:|
 | Datasets and models | 50 min | [Open](https://public.roboflow.com/) | [Open](https://models.roboflow.com/) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Models.pdf) |
 
-### Other resources
+# Other resources
+## Additional packages and libraries for computer vision and image processing in Python
 
-#### Introduction to Pillow: Python Imaging Library (PIL Fork)
+### Introduction to Pillow: Python Imaging Library (PIL Fork)
 
 | Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
 | ------------- |:---------------------:| :-----------:| -----:|------------:|
 | Pillow: Python Imaging Library (PIL Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/PIL.pdf) |
 
-#### [Scikit-image](https://scikit-image.org/) (Image processing in Python)
+### [Scikit-image](https://scikit-image.org/) (Image processing in Python)
 
 
 | Repository    | description |
@@ -175,7 +176,7 @@ The target audience is broad and includes
 > https://doi.org/10.7717/peerj.453
 
 
-#### [Mahotas: computer vision in Python](http://luispedro.org/software/mahotas/) (Image processing and computer vision in Python)
+### [Mahotas: computer vision in Python](http://luispedro.org/software/mahotas/) (Image processing and computer vision in Python)
 
 
 | Repository    | description |
@@ -186,6 +187,18 @@ The target audience is broad and includes
 > **Luis Pedro Coelho** Mahotas: Open source software for scriptable
 > computer vision in Journal of Open Research Software, vol 1, 2013.
 > [[DOI](http://dx.doi.org/10.5334/jors.ac)]
+
+
+## Additional packages and libraries for machine learning in Python
+
+### [Dlib](http://dlib.net/) (C++ toolkit (with python API) containing machine learning algorithms and tools)
+
+| Repository    | description |
+| ------------- |:-----------:| 
+|<img src="assets/github.png" width="20" height="20"> [dlib](https://github.com/davisking/dlib) | dlib library|
+| [dlib Python API](http://dlib.net/python/index.html) | dlib Python API]|
+|<img src="assets/github.png" width="20" height="20"> [Examples: Python](https://github.com/davisking/dlib/tree/master/python_examples) | mini-tutorials for using dlib from python|
+
 
 Work in progress :construction:
 
