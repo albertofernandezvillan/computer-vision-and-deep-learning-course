@@ -198,6 +198,8 @@ The target audience is broad and includes
 |<img src="assets/github.png" width="20" height="20"> [dlib](https://github.com/davisking/dlib) | dlib library|
 |<img src="assets/github.png" width="20" height="20"> [Examples: Python](https://github.com/davisking/dlib/tree/master/python_examples) | mini-tutorials for using dlib from Python|
 
+> **KING, Davis E.** Dlib-ml: A machine learning toolkit. The Journal of Machine Learning Research, 2009, vol. 10, p. 1755-1758.
+
 
 Work in progress :construction:
 
