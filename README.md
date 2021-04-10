@@ -196,8 +196,7 @@ The target audience is broad and includes
 | Repository    | description |
 | ------------- |:-----------:| 
 |<img src="assets/github.png" width="20" height="20"> [dlib](https://github.com/davisking/dlib) | dlib library|
-| [dlib Python API](http://dlib.net/python/index.html) | dlib Python API]|
-|<img src="assets/github.png" width="20" height="20"> [Examples: Python](https://github.com/davisking/dlib/tree/master/python_examples) | mini-tutorials for using dlib from python|
+|<img src="assets/github.png" width="20" height="20"> [Examples: Python](https://github.com/davisking/dlib/tree/master/python_examples) | mini-tutorials for using dlib from Python|
 
 
 Work in progress :construction:
