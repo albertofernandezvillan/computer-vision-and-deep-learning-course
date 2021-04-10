@@ -140,13 +140,6 @@ The target audience is broad and includes
 
 ### Other topics
 
-#### Introduction to Pillow
-
-| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
-| ------------- |:---------------------:| :-----------:| -----:|------------:|
-| Pillow: Python Imaging Library (Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/PIL.pdf) |
-
-
 ####  Introduction to flask (for computer vision)
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
@@ -160,6 +153,13 @@ The target audience is broad and includes
 | Datasets and models | 50 min | [Open](https://public.roboflow.com/) | [Open](https://models.roboflow.com/) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Models.pdf) |
 
 ### Other resources
+
+#### Introduction to Pillow
+
+| Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
+| ------------- |:---------------------:| :-----------:| -----:|------------:|
+| Pillow: Python Imaging Library (Fork)| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pil_introduction_python.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/PIL.pdf) |
+
 #### [Scikit-image](https://scikit-image.org/) (Image processing in Python)
 
 
@@ -169,7 +169,13 @@ The target audience is broad and includes
 |<img src="assets/github.png" width="20" height="20"> [skimage-tutorials](https://github.com/scikit-image/skimage-tutorials) | scikit-image tutorials|
 
 
+#### [Mahotas: computer vision in Python](http://luispedro.org/software/mahotas/ (Image processing and computer vision in Python)
 
+
+| Repository    | description |
+| ------------- |:-----------:| 
+|<img src="assets/github.png" width="20" height="20"> [mahotas](https://github.com/luispedro/mahotas) | Mahotas: Python Computer Vision Library|
+|<img src="assets/github.png" width="20" height="20"> [mahotas-demos](https://github.com/luispedro/mahotas/tree/master/mahotas/demos) | mahotas tutorials and demos|
 
 Work in progress :construction:
 
