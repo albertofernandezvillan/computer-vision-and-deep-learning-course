@@ -138,15 +138,15 @@ The target audience is broad and includes
 | Neural networks| 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_3_network.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Networks.pdf) |
 | Transfer learning| 40 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/pytorch_4_transfer.ipynb) | [Presentation](https://github.com/albertofernandezvillan/computer-vision-and-deep-learning-course/blob/main/presentations/Transfer.pdf) |
 
-### Other topics
+# Other topics
 
-####  Introduction to flask (for computer vision)
+##  Introduction to flask (for computer vision)
 
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
 | Minimal example showing how to create and deploy a Flask app for computer vision| 20 min | [Open](https://github.com/albertofernandezvillan/dl-ml-notebooks/blob/main/flask_app_on_colab_for_computer_vision_minimal_example.ipynb) | [Open](https://colab.research.google.com/github/albertofernandezvillan/dl-ml-notebooks/blob/main/flask_app_on_colab_for_computer_vision_minimal_example.ipynb) |
 
-#### Introduction to Roboflow
+## Introduction to Roboflow
 
 | Lesson        | Estimated time needed | Datasets  | Models | Presentation |
 | ------------- |:---------------------:| :-----------:| -----:|------------:|
