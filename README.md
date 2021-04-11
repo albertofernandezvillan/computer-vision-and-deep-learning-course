@@ -28,7 +28,7 @@ Work in progress :construction:
  :heavy_check_mark:Deep learning (Tensorflow, Keras, PyTorch)
  
 The target audience is broad and includes
- * People who have experience in computer science (maybe to graduate level) but who do now know about OpenCV
+ * People who have experience in computer science (maybe to graduate level) but who do not know about OpenCV
  * People who are studying other subjects and want to play with computer vision 
 
 
