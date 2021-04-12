@@ -95,7 +95,7 @@ The target audience is broad and includes
 
 ### Machine learning for computer vision
 
-#### Introduction of scikit-learn for classification, regression and clustering
+#### Introduction to scikit-learn for classification, regression and clustering
 
 | Lesson        | Estimated time needed | Source Code  | Colab | Presentation |
 | ------------- |:---------------------:| :-----------:| -----:|------------:|
